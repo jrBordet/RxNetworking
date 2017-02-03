@@ -1,0 +1,11 @@
+use_frameworks!
+
+source 'https://github.com/CocoaPods/Old-Specs'
+
+target 'RxNetworking_Example' do
+  pod 'RxNetworking', :path => '../'
+end
+
+target 'RxNetworking_Tests' do 
+    pod 'Kiwi' , '~> 2.3'
+end
