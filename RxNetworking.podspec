@@ -20,7 +20,7 @@ Pod::Spec.new do |s|
   s.homepage         = 'https://github.com/<GITHUB_USERNAME>/RxNetworking'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'Jean Raphael Bordet' => 'jean.bordet@deltatre.it' }
+  s.author           = { 'Jean Raphael Bordet' => 'jr.bordet@gmail.com' }
   s.source           = { :git => 'https://github.com/jrBordet/RxNetworking.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
